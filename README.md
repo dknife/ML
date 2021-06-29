@@ -6,7 +6,7 @@
 "으뜸 머신러닝"은 머신러닝을 처음 배우는 입문자와 머신 러닝의 개념을 익힌 상태에서 텐서플로우를 이용한 개발과 코딩에 도전하는 개발자를 위한 책입니다.
 
 <p align="center">
-  <img src="image/Prime_ML_cover.png" width=350px>
+  <img src="image/PrimeML_cover.png" width=350px>
 </p>
 
 ***
