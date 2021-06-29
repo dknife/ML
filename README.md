@@ -9,6 +9,11 @@
   <img src="image/PrimeML_cover.png" width=350px>
 </p>
 
+*** 
+
+# 정오표
+[[정오표]]
+
 ***
 # 책의 목차
 
