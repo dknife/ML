@@ -1,3 +1,9 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 # "으뜸 머신러닝" 저장소 소개
 ## 프로그램 코드와 자료를 제공합니다.
 
