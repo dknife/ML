@@ -14,7 +14,7 @@
 
 [[9장 소스코드]](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/09%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
 
-[[10장 소스코드]](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/10%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
+[[10장 소스코드]](https://nbviewer.jupyter.org/github/dknife/ML/blob/main/Source/10%EC%9E%A5_%EC%BD%94%EB%93%9C.ipynb)
 
 [[11장 소스코드]](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/11%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
 
