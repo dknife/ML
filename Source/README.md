@@ -1,3 +1,5 @@
+각 장별 소스코드입니다. 위의 링크를 클릭했을 때 노트북 환경에서 소스코드를 볼 수 없다면 아래 링크를 클릭하기 바랍니다.
+
 # 장별 소스코드 
 
 [[3장 소스코드]](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/03%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
