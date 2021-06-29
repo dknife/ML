@@ -12,7 +12,7 @@
 *** 
 
 # 정오표
-[[정오표]]
+[[정오표]](https://docs.google.com/document/d/1V74pmmTYCMnNvadaa2z0zNh1vITWZ8w91YRRSG5wVw0/edit?usp=sharing)
 
 ***
 # 책의 목차
