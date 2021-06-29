@@ -14,10 +14,10 @@
 # 정오표
 ### 오류를 줄이기 위해 노력했으나, 죄송하게도 오류가 남았습니다. 판을 바꿀 때마다 지속적으로 수정하도록 하겠습니다. 책에 반영되지 않은 오류를 공유합니다. 
 
-실수는 인간적이지만, 실수를 고집하는 것은 악마적이다 (Errare humanum est, perseverare autem diabolicum)
-
 ## 1판 1쇄
 [[1판 1쇄 정오표]](https://docs.google.com/document/d/1V74pmmTYCMnNvadaa2z0zNh1vITWZ8w91YRRSG5wVw0/edit?usp=sharing)
+
+실수는 인간적이지만, 실수를 고집하는 것은 악마적이다 (Errare humanum est, perseverare autem diabolicum)
 
 ***
 # 책의 목차
