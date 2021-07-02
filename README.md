@@ -17,6 +17,15 @@
 
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
 
+<p align="center">
+  <img src="image/20BFF5E5-1B47-490E-99A4-6A76440B6F2C.png" width=100px>
+</p>
+
+<p align="center">
+  <img src="image/20BFF5E5-1B47-490E-99A4-6A76440B6F2C.png" width=100px>
+</p>
+
+
 *** 
 
 # 정오표
