@@ -13,7 +13,7 @@
 
 이 책을 읽기 위해 파이썬과 데이터 다루기와 관련된 저자들의 이전 책을 함께 보면 좋습니다. 
 
-* 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 새종도서 학술부문 선정
+* 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
  * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
 
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
