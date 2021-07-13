@@ -9,6 +9,10 @@
   <img src="image/PrimeML_cover.png" width=350px>
 </p>
 
+# 책의 소스코드(colab 주소, .py 파일, ipynb 파일)
+* [소스코드](https://github.com/dknife/ML/tree/main/Source)
+: "으뜸 머신러닝" 책의 장별 소스코드가 .ipynb, colab 페이지를 통해서 제공됩니다
+
 ## 함께 보면 좋은 책
 
 이 책을 읽기 위해 파이썬과 데이터 다루기와 관련된 저자들의 이전 책을 함께 보면 좋습니다. 
