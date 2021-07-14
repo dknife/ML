@@ -3,6 +3,7 @@
 위의 코드가 노트북 환경에서 열리지 않는다면, 아래 링크를 클릭하시기 바랍니다.
 
 [3장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch03.ipynb) 구현을 위한 도구 (파이썬, 코랩, 넘파이)
+* 코랩 주소 : https://colab.research.google.com/drive/11J--272C0cPrHqZkWUDJMi2_vsL4nxmK
 
 [4장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch04.ipynb) 선형 회귀로 이해하는 지도학습 (선형회귀 구현, Scikit-learn 활용)
 
