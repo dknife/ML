@@ -28,6 +28,10 @@
   <img src="image/BB56B4F0-484E-4B5E-8649-EA827AF9271B.jpeg" width=200px>
 </p>
 
+# 강의 PPT
+* 이 책으로 강의를 하실분을 위한 강의 PPT가 제공됩니다.
+* 강의 PPT 자료 : https://booksr.co.kr/ 교수회원으로 로그인 후 강의자료 다운로드가 가능합니다.
+
 
 *** 
 # 정오표
