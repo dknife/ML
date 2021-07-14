@@ -1,10 +1,11 @@
 # "으뜸 머신러닝" 저장소 소개
 ## 프로그램 코드와 자료를 제공합니다.
 
-안녕하세요 독자여러분 이곳은 생능출판사의 책 "으뜸 머신러닝"(2021년 7월 출간예정) 관련 저장소입니다. 이 책의 소스코드와 주피터 노트북 파일, colab 주소, 정오표등 다양한 자료와 정보를 업로드할 예정입니다.
+안녕하세요 독자여러분 이곳은 생능출판사의 책 "으뜸 머신러닝"(2021년 7월 출간) 관련 저장소입니다. 이 책의 소스코드와 주피터 노트북 파일, colab 주소, 정오표등 다양한 자료와 정보가 있는 곳입니다.
 
-"으뜸 머신러닝"은 머신러닝을 처음 배우는 입문자와 머신 러닝의 개념을 익힌 상태에서 텐서플로우를 이용한 본격적 개발을 시작하려는 분들을 위한 책입니다.
-* [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
+이 책 "으뜸 머신러닝"은 머신러닝을 처음 배우는 입문자와 머신 러닝의 개념을 익힌 상태에서 텐서플로우를 이용한 본격적 개발을 시작하려는 분들을 위한 책입니다.
+
+ * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
 <p align="center">
   <img src="image/PrimeML_cover.png" width=350px>
 </p>
@@ -29,17 +30,14 @@
 
 
 *** 
-
 # 정오표
-
 
 실수는 인간적이지만, 실수를 고집하는 것은 악마적이다 (Errare humanum est, perseverare autem diabolicum)
 
 ### 오류를 줄이기 위해 노력했으나, 죄송하게도 오류가 남았습니다. 판을 바꿀 때마다 지속적으로 수정하도록 하겠습니다. 아직 고치지 못하고 남은 오류와 수정 내용을 공유합니다. 
-
 ## 1판 1쇄
 [[1판 1쇄 정오표]](https://docs.google.com/document/d/1V74pmmTYCMnNvadaa2z0zNh1vITWZ8w91YRRSG5wVw0/edit?usp=sharing) <- 클릭하세요
-
+* 오류신고 : ymkang@tu.ac.kr 로 메일 보내주시면 됩니다.
 
 ***
 # 책의 목차
