@@ -1,6 +1,8 @@
 # 으뜸 머신러닝 책에 실린 코드들입니다.
 
-위의 코드가 노트북 환경에서 열리지 않는다면, 아래 링크를 클릭하시기 바랍니다.
+깃헙 저장소의 코드가 노트북 환경에서 열리지 않는다면, 아래 링크를 클릭하시기 바랍니다.(구글 코랩 공유, NBViewer를 통한 코드 제공)
+
+공유 권한의 문제나, 깨어진 링크가 발견하시면 저자들에게 알려 주시기 바랍니다. 즉시 수정하도록 하겠습니다.
 
 [3장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch03.ipynb) 구현을 위한 도구 (파이썬, 코랩, 넘파이)
 * 코랩 주소 : https://colab.research.google.com/drive/11J--272C0cPrHqZkWUDJMi2_vsL4nxmK
