@@ -2,7 +2,7 @@
 
 위의 코드가 노트북 환경에서 열리지 않는다면, 아래 링크를 클릭하시기 바랍니다.
 
-3장 코드 : 구현을 위한 도구 (파이썬, 코랩, 넘파이)
+[3장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch03.ipynb) 구현을 위한 도구 (파이썬, 코랩, 넘파이)
 * 코랩 주소 : https://colab.research.google.com/drive/11J--272C0cPrHqZkWUDJMi2_vsL4nxmK
 * 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch03.ipynb
 
@@ -24,6 +24,7 @@
 
 [6장 미니프로젝트 B1](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP06_B1.ipynb) 얼굴 찾기: SVM으로 분류하기
 * 코랩 주소 : https://colab.research.google.com/drive/1UrZjeFCtwcLHqefXhZBa2mzeltx9_SSi
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP06_B1.ipynb
 
 [7장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch07.ipynb) 인공 신경망 기초 - 문제와 돌파구 (퍼셉트론, 다항입력, 다층 퍼셉트론)
 * 코랩 주소 : https://colab.research.google.com/drive/1USIwBX_eo9h-3aMyqFe8pDxFbSbkMQZN
@@ -40,9 +41,11 @@
 
 [9장 미니프로젝트 B2](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP09_B2.ipynb) 얼굴 찾기: CNN 활용하기
 * 코랩 주소 : https://colab.research.google.com/drive/1_j5NBI0P3yjpoILDHx8Hl3KiKQu-7at5
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP09_B2.ipynb
 
 [9장 미니프로젝트 B3](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP09_B3.ipynb) 얼굴 찾기: 전이학습 활용하기
 * 코랩 주소 : https://colab.research.google.com/drive/1GAzPzcmKzBp8kvascUCJRhI9x9z__1yj
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP09_B3.ipynb
 
 [10장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch10.ipynb) 순환 신경망 (바닐라 RNN, LSTM, GRU)
 * 코랩 주소 : https://colab.research.google.com/drive/1m2OM3Vpgx_dn1Pzua7N1KqJ_nvVLN5nQ
@@ -58,6 +61,8 @@
 
 [12장 미니프로젝트 A2](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP12_A2.ipynb) 잡음제거: 오토인코더 활용
 * 코랩 주소 : https://colab.research.google.com/drive/1cifkeX53mLnYdyv2yeLj02SmtR3GtMkc
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP12_A2.ipynb
 
 [12장 미니프로젝트 C1](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP12_C1.ipynb) 차원축소: 데이터 분포 가시화
 * 코랩 주소 : https://colab.research.google.com/drive/1HLDITR1KmwHDzuV3EAgsM7RO5mOf9L7w
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/MP12_C1.ipynb
