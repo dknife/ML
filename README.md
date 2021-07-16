@@ -20,9 +20,11 @@
 
 * 으뜸 파이썬, 박동규, 강영민, 생능출판사 (2020) - 세종도서 학술부문 선정
   * [[YES24]](http://www.yes24.com/Product/Goods/89140722), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=330274507&pis1=book&pis2=product), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970503691&orderClick=LEa&Kc=)
+  * 으뜸 파이썬 github 저장소 : https://github.com/dongupak/Prime-Python
 
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
   * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
+  * 파이썬과 데이터 과학 github 저장소 : https://github.com/dongupak/DataSciPy
 <p align="center">
   <img src="image/20BFF5E5-1B47-490E-99A4-6A76440B6F2C.png" width=200px>
   <img src="image/BB56B4F0-484E-4B5E-8649-EA827AF9271B.jpeg" width=200px>
