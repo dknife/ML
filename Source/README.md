@@ -7,6 +7,7 @@
 * 코랩 주소 : https://colab.research.google.com/drive/11J--272C0cPrHqZkWUDJMi2_vsL4nxmK
 
 [4장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch04.ipynb) 선형 회귀로 이해하는 지도학습 (선형회귀 구현, Scikit-learn 활용)
+* 주피터 노트북 파일 : https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch04.ipynb
 * 코랩 주소 : https://colab.research.google.com/drive/1jB-Cnzgd30hzNPhIggXN-s8QG8dgsUUc
 
 [5장 코드](https://nbviewer.jupyter.org/github/dknife/ML/raw/main/Source/ch05.ipynb) 분류와 군집화로 이해하는 지도 학습과 비지도 학습 (k-NN, k-means)
